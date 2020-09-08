@@ -1,3 +1,12 @@
+# Monster's Rolodex
+
+A React.js app for displaying monsters created by fetching data from https://jsonplaceholder.typicode.com/users and https://robohash.org.
+This project is deployed at : https://sanjithasingh.github.io/monsters-rolodex/
+
+
+
+## React Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
